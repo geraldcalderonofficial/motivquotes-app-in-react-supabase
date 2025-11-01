@@ -95,7 +95,7 @@ h1 {
   margin-bottom: 7px;
 }
 
-.fact {
+.quote {
   font-size: 20px;
   line-height: 1.4;
   /* background-color: #44403c; */
@@ -110,7 +110,7 @@ h1 {
 }
 
 @media (max-width: 1200px) {
-  .fact {
+  .quote {
     flex-direction: column;
     align-items: flex-end;
     gap: 12px;
@@ -208,7 +208,7 @@ ul {
 }
 
 /* FORM */
-.fact-form {
+.quote-form {
   /* background-color: #44403c; */
   margin-bottom: 40px;
   /* padding: 16px 32px;
@@ -218,8 +218,8 @@ ul {
   /* border-radius: 16px; */
 }
 
-.fact-form input,
-.fact-form select {
+.quote-form input,
+.quote-form select {
   /* width: 220px; */
   /* background-color: #78716c; */
   /* border: none; */
@@ -230,15 +230,15 @@ ul {
   font-family: inherit;
 }
 
-.fact-form input::placeholder {
+.quote-form input::placeholder {
   color: #a8a29e;
 }
 
-.fact-form input:first-child {
+.quote-form input:first-child {
   flex-grow: 1;
 }
 
-.fact-form span {
+.quote-form span {
   font-weight: 600;
   font-size: 18px;
   margin-right: 18px;
@@ -249,13 +249,13 @@ ul {
     padding: 32px 48px;
   }
 
-  .fact-form {
+  .quote-form {
     flex-direction: column;
     align-items: stretch;
   }
 
-  /* .fact-form input,
-  .fact-form select {
+  /* .quote-form input,
+  .quote-form select {
     width: auto;
   } */
 }
@@ -270,11 +270,11 @@ ul {
     gap: 16px;
   }
 
-  .fact-form {
+  .quote-form {
     padding: 16px;
   }
 
-  .fact {
+  .quote {
     padding: 12px 16px;
   }
 }
