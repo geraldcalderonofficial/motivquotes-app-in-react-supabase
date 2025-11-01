@@ -6,7 +6,7 @@ Storing the application data in Supabase. Making the App Interactive using JavaS
 
 Add your favorite quotes to the database. Add your own!
 
-[Visit Motive Quotes App](https://geraldworks.dev/portfolio-item/motiv-quotes/)
+[Visit Motiv Quotes App](https://geraldworks.dev/portfolio-item/motiv-quotes/)
 
 
 ### Getting Started with Create React App
