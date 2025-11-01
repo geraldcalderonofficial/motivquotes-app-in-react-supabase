@@ -7,6 +7,8 @@ Storing the application data in Supabase. Making the App Interactive using JavaS
 Add your favorite quotes to the database. Add your own!
 
 
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
